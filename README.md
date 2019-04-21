@@ -44,7 +44,7 @@ ZD{OK time to move onto some harder stuff}
 RSA Challenge 5 :
 
 In this challenge I had to decrypt another cipher text. I was given a file to use with some values.
-Using the https://en.wikipedia.org/wiki/RSA_(cryptosystem) website. I wa sable to learn about RSA and the Chinese remainder algorithm. Which is how I solved this flag. Using the solution below. 
+Using the https://en.wikipedia.org/wiki/RSA_(cryptosystem) website. I was able to learn about RSA and the Chinese remainder algorithm. Which is how I solved this flag. Using the solution below. 
 # https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 #p and {\displaystyle q} q: the primes from the key generation,
 #{\displaystyle d_{P}=d{\pmod {p-1}}} {\displaystyle d_{P}=d{\pmod {p-1}}},
